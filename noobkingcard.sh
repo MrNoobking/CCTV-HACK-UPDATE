@@ -1,4 +1,3 @@
-#!/data/data/com.termux
 
 echo "AUTHOR : MrNoobking"
 sleep 2
