@@ -7,4 +7,4 @@ sudo apt-get update && apt-get upgrade
 sleep 2
 sudo apt install wget
 sleep 1
-php CMQyGnfN.php
+php kontol.php
